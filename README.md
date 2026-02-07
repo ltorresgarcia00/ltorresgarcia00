@@ -15,14 +15,14 @@
 
 - Built a virtual IT environment using **VirtualBox / VMware**
 - Deployed **Windows Server** as a Domain Controller (`corp.local`)
-- Created and managed **users, groups, and OU structure**
+- Created and managed **users, groups, and organizational units (OUs)**
 - Performed **password resets, account unlocks, and access control tasks**
 - Simulated common **Tier 1 / Tier 2 IT support scenarios**
 
 #### 🎫 Ticketing System Practice
 - Used **osTicket / Spiceworks** to simulate real help desk workflows
 - Logged, updated, and resolved **30+ simulated support tickets**
-- Practiced **documentation, escalation notes, and user communication**
+- Practiced **technical documentation, escalation notes, and user communication**
 
 **Example issues handled**
 - Login failures and password resets
@@ -34,7 +34,7 @@
 
 ## 🧰 Technical Skills
 
-- **Operating Systems:** Windows 10/11, Windows Server (AD), basic macOS support  
+- **Operating Systems:** Windows 10/11, Windows Server (Active Directory), basic macOS support  
 - **Identity & Access Management:** Active Directory (users, groups, resets, unlocks)  
 - **IT Support:** Ticket triage, troubleshooting, documentation, escalation  
 - **Networking Fundamentals:** IP addressing, DNS, Wi-Fi troubleshooting  
@@ -56,7 +56,6 @@ Minor in Mathematical Sciences
 ### CodePath CYB101 – Introduction to Cybersecurity *(Completed)*
 **Focus:** Security fundamentals, Linux, networking, malware, and social engineering
 
-**Topics Covered**
 - Linux command line fundamentals (bash)
 - Secure remote access (SSH, RDP)
 - Public Key Infrastructure (PKI) basics
@@ -68,28 +67,21 @@ Minor in Mathematical Sciences
 - Social engineering attacks (phishing, spoofing)
 - Privacy vs security and anonymity concepts
 
-**Hands-On Skills**
+**Hands-On Experience**
 - Navigated Linux systems using the terminal
 - Executed basic exploitation in controlled lab environments
 - Analyzed malware behavior and attack patterns
 - Identified and mitigated phishing and social engineering attempts
-- Applied foundational networking and access control concepts
-
-**Certification Alignment**
-- CompTIA Security+
-- CompTIA Network+ (partial)
-- ISC2 Certified in Cybersecurity (CC)
 
 ---
 
 ### CodePath CYB102 – Intermediate Cybersecurity *(In Progress)*
 **Focus:** Blue Team operations, monitoring, detection, and incident response
 
-**Topics Covered**
 - Blue Team defense concepts and SOC operations
-- Security Operations Centers (SOC) workflows
+- Security Operations Center (SOC) workflows
 - Endpoint monitoring and log analysis
-- SIEM usage and HIDS tools
+- SIEM usage and host-based intrusion detection systems (HIDS)
 - Vulnerability scanning and assessment
 - Network monitoring and packet analysis
 - Intrusion Detection and Prevention Systems (IDS/IPS)
@@ -97,36 +89,28 @@ Minor in Mathematical Sciences
 - Threat intelligence and information sharing
 - MITRE ATT&CK framework for adversary behavior
 
-**Hands-On Skills**
+**Hands-On Experience**
 - Analyzed logs and security events using SIEM concepts
 - Monitored endpoints for suspicious activity
 - Identified attack vectors and performed incident triage
 - Conducted vulnerability scans and risk assessments
 - Applied MITRE ATT&CK to map and understand threats
 
---
+---
 
 ## 📜 Certifications & Training
 
-### Security
 - CompTIA Security+ *(In Progress)*
 - CompTIA Network+ *(In Progress)*
-
-### Cybersecurity Coursework
-- **CodePath CYB101 – Introduction to Cybersecurity** *(Completed)*
-- **CodePath CYB102 – Intermediate Cybersecurity** *(In Progress)*
-
-### Cloud (Foundational)
 - AWS Certified Cloud Practitioner *(In Progress)*
 
-> Advanced cloud and AI certifications planned after foundational completion.
+> Advanced cloud, security, and AI certifications planned after foundational completion.
 
 ---
 
 ## ☁️ Cloud Platforms (Learning Path)
 
 ### AWS
-- AWS Certified Cloud Practitioner *(In Progress)*
 - AWS Solutions Architect – Associate *(Planned)*
 - AWS Security – Specialty *(Planned)*
 
@@ -143,7 +127,7 @@ Minor in Mathematical Sciences
 - Information Security Analyst
 - Cloud Security Engineer
 - Security Engineer (Cloud / IAM / Detection)
-- AI Security Engineer (long-term)
+- AI Security Engineer *(long-term)*
 
 ---
 
