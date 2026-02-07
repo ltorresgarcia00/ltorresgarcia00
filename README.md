@@ -1,7 +1,7 @@
 # Hi, I’m Leonel Torres Garcia 👋
 
 🎓 **Computer Science (Cybersecurity) Student @ Kean University**  
-🔐 Aspiring Cloud & Security Engineer | Blue Team Focus
+🔐 Aspiring Cloud & AI Security Engineer | Blue Team Focus
 
 ![GitHub followers](https://img.shields.io/github/followers/ltorresgarcia00?style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/ltorresgarcia00?style=flat)
