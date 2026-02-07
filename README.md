@@ -51,6 +51,61 @@ Minor in Mathematical Sciences
 
 ---
 
+## 🛡️ Cybersecurity Coursework (Hands-On)
+
+### CodePath CYB101 – Introduction to Cybersecurity *(Completed)*
+**Focus:** Security fundamentals, Linux, networking, malware, and social engineering
+
+**Topics Covered**
+- Linux command line fundamentals (bash)
+- Secure remote access (SSH, RDP)
+- Public Key Infrastructure (PKI) basics
+- Password security and hashing mechanisms
+- IP and DNS fundamentals and exploit concepts
+- Introductory penetration testing with Metasploit
+- Malware classification and detection techniques
+- Metadata analysis and steganography
+- Social engineering attacks (phishing, spoofing)
+- Privacy vs security and anonymity concepts
+
+**Hands-On Skills**
+- Navigated Linux systems using the terminal
+- Executed basic exploitation in controlled lab environments
+- Analyzed malware behavior and attack patterns
+- Identified and mitigated phishing and social engineering attempts
+- Applied foundational networking and access control concepts
+
+**Certification Alignment**
+- CompTIA Security+
+- CompTIA Network+ (partial)
+- ISC2 Certified in Cybersecurity (CC)
+
+---
+
+### CodePath CYB102 – Intermediate Cybersecurity *(In Progress)*
+**Focus:** Blue Team operations, monitoring, detection, and incident response
+
+**Topics Covered**
+- Blue Team defense concepts and SOC operations
+- Security Operations Centers (SOC) workflows
+- Endpoint monitoring and log analysis
+- SIEM usage and HIDS tools
+- Vulnerability scanning and assessment
+- Network monitoring and packet analysis
+- Intrusion Detection and Prevention Systems (IDS/IPS)
+- Incident response lifecycle (triage, containment, recovery)
+- Threat intelligence and information sharing
+- MITRE ATT&CK framework for adversary behavior
+
+**Hands-On Skills**
+- Analyzed logs and security events using SIEM concepts
+- Monitored endpoints for suspicious activity
+- Identified attack vectors and performed incident triage
+- Conducted vulnerability scans and risk assessments
+- Applied MITRE ATT&CK to map and understand threats
+
+--
+
 ## 📜 Certifications & Training
 
 ### Security
