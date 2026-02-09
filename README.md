@@ -126,7 +126,8 @@ Minor in Mathematical Sciences
 
 ## 🎯 Career Interests
 
-- IT Support / Service Desk Analyst  
+- IT Support / Service Desk Analyst
+- IT Support Engineer
 - SOC Analyst (Blue Team)  
 - Information Security Analyst  
 - Cloud Security Engineer  
