@@ -22,7 +22,7 @@ Designed and built a hybrid enterprise-style lab to simulate real IT support and
 - Configured AD DS, Users, Groups, OUs, and GPOs
 - Implemented RBAC and least privilege principles
 - Practiced MFA troubleshooting and identity workflows
-- Logged & resolved 30+ realistic support tickets
+- Logged & resolved realistic support tickets
 - Simulated DNS failures, login issues, and endpoint alerts
 
 This lab mirrors real-world help desk and junior sysadmin responsibilities.
