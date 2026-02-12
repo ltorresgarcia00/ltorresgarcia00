@@ -3,84 +3,143 @@
 🎓 **Computer Science (Cybersecurity) Student @ Kean University**  
 🔐 Aspiring Cloud & AI Security Engineer | Blue Team Focus  
 
+I’m building hands-on experience in IT infrastructure, identity management, cloud security, and AI-driven systems through structured labs and real-world style projects.
+
 ![GitHub followers](https://img.shields.io/github/followers/ltorresgarcia00?style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/ltorresgarcia00?style=flat)
 
 ---
 
-## 🧪 IT Support & Security Home Lab (Hybrid Active Directory + Cloud Identity) (In Progress)
+# 🚀 Featured Projects
 
-**Technologies:** Active Directory · Windows Server · Microsoft Entra ID · UTM · Ubuntu · osTicket  
+## 🧪 IT Support & Security Home Lab (Hybrid AD + Cloud Identity)
+**Technologies:** Active Directory · Windows Server · Entra ID · Ubuntu · UTM · osTicket  
 
-Built a hybrid IT support lab to simulate real-world enterprise environments using virtualization and cloud identity tools.
+Designed and built a hybrid enterprise-style lab to simulate real IT support and identity management environments.
+
+**Key Highlights:**
+- Deployed Windows Server as a Domain Controller
+- Configured AD DS, Users, Groups, OUs, and GPOs
+- Implemented RBAC and least privilege principles
+- Practiced MFA troubleshooting and identity workflows
+- Logged & resolved 30+ realistic support tickets
+- Simulated DNS failures, login issues, and endpoint alerts
+
+This lab mirrors real-world help desk and junior sysadmin responsibilities.
 
 ---
 
-### 🖥 On-Prem Active Directory (Windows Server)
+## 🤖 AI Resume Analyzer (Python + OpenAI API)
+**Technologies:** Python · Tkinter · PDF Parsing · OpenAI API  
 
-- Deployed Windows Server as a **Domain Controller** using UTM (Apple Silicon)
-- Installed and configured **Active Directory Domain Services (AD DS)**
-- Created and managed:
-  - Users
-  - Security Groups
-  - Organizational Units (OUs)
-- Configured and applied **Group Policy Objects (GPOs)**
-- Simulated real IT support tasks:
+Built a desktop application that:
+- Extracts text from PDF resumes
+- Uses AI to generate structured resume feedback
+- Demonstrates API integration and secure key management
+- Applies GUI development principles using Tkinter
+
+Focus areas:
+- Secure environment variable usage
+- Error handling for file parsing
+- Practical AI automation workflow
+
+---
+
+## 🛠 IT Toolkit – System Monitoring Suite
+**Technologies:** Python · Modular Architecture · Logging · Visualization  
+
+Created a modular IT diagnostic toolkit to simulate system troubleshooting tasks.
+
+Modules include:
+- Disk usage monitoring
+- Network diagnostics
+- Process monitoring
+- System information collection
+- Report generation
+
+Demonstrates:
+- Modular software design
+- Logging & documentation practices
+- Automation of IT support workflows
+
+---
+
+## 🧠 COVID-19 X-Ray Classification (Deep Learning)
+**Technologies:** PyTorch · ResNet50 · OpenCV · Random Forest · Google Colab (GPU)  
+
+Developed and compared multiple classification approaches:
+
+- Transfer learning with ResNet50 (~90% accuracy)
+- Feature extraction + Random Forest comparison
+- Adaptive thresholding preprocessing experiment
+
+Demonstrates:
+- CNN fine-tuning
+- Model evaluation with precision/recall/F1
+- Deep learning vs classical ML comparison
+- GPU-based training workflow
+
+---
+
+## 🏓 Pong Game (Java OOP)
+**Technologies:** Java · AWT · Swing  
+
+Implemented a fully functional Pong game showcasing:
+- Object-oriented design
+- Game loop logic
+- Collision detection
+- Real-time GUI rendering
+
+---
+
+# 🧪 IT Support & Security Home Lab (Detailed Breakdown)
+
+## 🖥 On-Prem Active Directory (Windows Server)
+
+- Installed and configured AD DS
+- Created users, security groups, and OUs
+- Applied Group Policy Objects (GPOs)
+- Practiced:
   - Password resets
   - Account lockouts
   - Domain join troubleshooting
   - RDP configuration
-  - Group-based access control
-- Practiced **least privilege and role-based access control (RBAC)**
+- Implemented role-based access control
 
 ---
 
-### ☁️ Cloud Identity (Microsoft Entra ID / Azure AD)
+## ☁️ Cloud Identity (Microsoft Entra ID)
 
-- Configured Windows 11 as a **cloud-joined device**
-- Managed users, roles, and access policies
-- Practiced:
-  - MFA troubleshooting
-  - Account recovery workflows
-  - Conditional access concepts
-  - Endpoint compliance basics
+- Configured cloud-joined Windows device
+- Managed identity roles and policies
+- Practiced MFA troubleshooting
+- Explored conditional access and endpoint compliance concepts
 
 ---
 
-### 🎫 Ticketing System Practice (osTicket)
+## 🎫 Ticketing System (osTicket)
 
-- Deployed **osTicket on Ubuntu (UTM)**
-- Logged, triaged, escalated, and resolved **30+ realistic support tickets**
-- Practiced:
-  - SLA awareness
-  - Escalation documentation
-  - End-user communication
+- Deployed on Ubuntu VM
+- Logged, triaged, escalated, and resolved 30+ tickets
+- Practiced documentation and SLA awareness
 - Linked tickets to:
-  - Active Directory user management
+  - AD user management
   - Cloud identity issues
-  - DNS and network troubleshooting
-  - Security alerts and investigations
-
-**Example Issues Resolved**
-- Login failures and account unlocks
-- MFA and identity access problems
-- Group membership permission errors
-- DNS resolution failures
-- Slow system performance
-- Endpoint security alerts
+  - DNS troubleshooting
+  - Security-related alerts
 
 ---
 
-## 🧰 Technical Skills
+# 🧰 Technical Skills
 
 ### Systems & Infrastructure
-- Windows Server (Active Directory Domain Services)
+- Windows Server (AD DS)
 - Windows 11
 - Ubuntu Linux
-- macOS (basic support)
+- macOS support basics
 
 ### Identity & Access Management
-- Active Directory (Users, Groups, OUs, GPOs)
+- Active Directory
 - Microsoft Entra ID (Azure AD)
 - RBAC & least privilege
 - Account lifecycle management
@@ -92,86 +151,72 @@ Built a hybrid IT support lab to simulate real-world enterprise environments usi
 ### IT Support & Operations
 - Ticket triage & escalation
 - Authentication troubleshooting
-- Endpoint issue resolution
+- Endpoint diagnostics
 - Technical documentation
 
-### Networking Fundamentals
-- IP addressing
+### Networking
 - DNS troubleshooting
-- Wi-Fi & LAN connectivity
-- Port & service awareness
+- IP addressing
+- LAN/Wi-Fi connectivity
+- Basic port & service awareness
 
 ### Security Fundamentals
-- Authentication & authorization
 - Log analysis
-- Vulnerability scanning basics
 - Incident triage
-- MITRE ATT&CK fundamentals
-
-### Tools
-- Active Directory Users & Computers
-- Group Policy Management Console
-- osTicket
-- Azure Portal
-- Microsoft 365 Admin Center
-- Linux CLI
+- Vulnerability scanning basics
+- MITRE ATT&CK familiarity
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 **Kean University**  
-B.S. in Computer Science (Cybersecurity Option)  
+B.S. Computer Science (Cybersecurity Option)  
 Minor in Mathematical Sciences  
 
 ---
 
-## 🛡 Cybersecurity Coursework (Hands-On)
+# 🛡 Cybersecurity Coursework
 
-### CodePath CYB101 – Introduction to Cybersecurity (Completed)
+### CodePath CYB101 – Completed
+- Linux CLI & remote access security
+- PKI fundamentals
+- Password hashing
+- Introductory penetration testing
+- Malware analysis basics
 
-- Linux CLI fundamentals
-- SSH and RDP secure remote access
-- PKI basics
-- Password hashing & security
-- Introductory penetration testing labs
-- Malware classification & detection
-- Social engineering awareness
-
-### CodePath CYB102 – Intermediate Cybersecurity (In Progress)
-
-- SOC workflows & Blue Team concepts
+### CodePath CYB102 – In Progress
+- SOC workflows
 - Log analysis & endpoint monitoring
-- SIEM & HIDS concepts
+- SIEM concepts
 - Vulnerability scanning
-- Network packet analysis
 - Incident response lifecycle
 - MITRE ATT&CK mapping
 
 ---
 
-## 📜 Certifications (In Progress)
+# 📜 Certifications (In Progress)
 
 - CompTIA Security+
 - CompTIA Network+
 
 ---
 
-## 🎯 Career Interests
+# 🎯 Career Focus
 
-**Immediate Focus**
-- IT Support / Service Desk Analyst
+**Immediate Goal**
 - IT Support Engineer
+- Service Desk Analyst
 - SOC Analyst (Blue Team)
 
-**Long-Term**
+**Long-Term Goal**
 - Cloud Security Engineer
 - Security Engineer (IAM / Detection / Cloud)
 - AI Security Engineer
 
 ---
 
-## 📫 Contact
+# 📫 Connect
 
 💼 LinkedIn: https://www.linkedin.com/in/leoneltorresgarcia/  
-📧 Email: ltorresgarcia2000@gmail.com  
+📧 Email: ltorresgarcia2000@gmail.com
