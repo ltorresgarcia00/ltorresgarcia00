@@ -12,7 +12,7 @@ I’m building hands-on experience in IT infrastructure, identity management, cl
 
 # 🚀 Featured Projects
 
-## 🧪 IT Support & Security Home Lab (Hybrid AD + Cloud Identity)
+## 🧪 IT Support & Security Home Lab (Hybrid AD + Cloud Identity) (In Progress)
 **Technologies:** Active Directory · Windows Server · Entra ID · Ubuntu · UTM · osTicket  
 
 Designed and built a hybrid enterprise-style lab to simulate real IT support and identity management environments.
