@@ -8,7 +8,7 @@
 
 ---
 
-## 🧪 IT Support & Security Home Lab (Hybrid Active Directory + Cloud Identity)
+## 🧪 IT Support & Security Home Lab (Hybrid Active Directory + Cloud Identity) (In progress)
 
 **Technologies:** Active Directory · Windows Server · Microsoft Entra ID · UTM · Ubuntu · osTicket  
 
