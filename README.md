@@ -81,17 +81,6 @@ Demonstrates:
 
 ---
 
-## 🏓 Pong Game (Java OOP)
-**Technologies:** Java · AWT · Swing  
-
-Implemented a fully functional Pong game showcasing:
-- Object-oriented design
-- Game loop logic
-- Collision detection
-- Real-time GUI rendering
-
----
-
 # 🧰 Technical Skills
 
 ### Systems & Infrastructure
