@@ -1,142 +1,177 @@
 # Hi, I’m Leonel Torres Garcia 👋
 
 🎓 **Computer Science (Cybersecurity) Student @ Kean University**  
-🔐 Aspiring **Cloud & AI Security Engineer** | **Blue Team Focus**
+🔐 Aspiring Cloud & AI Security Engineer | Blue Team Focus  
 
 ![GitHub followers](https://img.shields.io/github/followers/ltorresgarcia00?style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/ltorresgarcia00?style=flat)
 
 ---
 
-## 🧪 Projects (In Progress)
+## 🧪 IT Support & Security Home Lab (Hybrid Active Directory + Cloud Identity)
 
-### 🧠 IT Support & Security Home Lab (Modern / Hybrid)
-**Help Desk · Cloud Identity · Endpoint Management · Ticketing**
+**Technologies:** Active Directory · Windows Server · Microsoft Entra ID · UTM · Ubuntu · osTicket  
 
-- Built a **hybrid IT support lab** using **UTM on macOS** with **Windows 11 ARM** and **Ubuntu Linux**
-- Configured **Windows 11 as a cloud-joined device** using **Microsoft Entra ID (Azure AD)**
-- Created and managed **users, groups, roles, and access policies**
-- Practiced **account recovery, access troubleshooting, and endpoint security**
-- Simulated **Tier 1 / Tier 2 IT support scenarios** in a modern cloud-first environment
+Built a hybrid IT support lab to simulate real-world enterprise environments using virtualization and cloud identity tools.
+
+---
+
+### 🖥 On-Prem Active Directory (Windows Server)
+
+- Deployed Windows Server as a **Domain Controller** using UTM (Apple Silicon)
+- Installed and configured **Active Directory Domain Services (AD DS)**
+- Created and managed:
+  - Users
+  - Security Groups
+  - Organizational Units (OUs)
+- Configured and applied **Group Policy Objects (GPOs)**
+- Simulated real IT support tasks:
+  - Password resets
+  - Account lockouts
+  - Domain join troubleshooting
+  - RDP configuration
+  - Group-based access control
+- Practiced **least privilege and role-based access control (RBAC)**
+
+---
+
+### ☁️ Cloud Identity (Microsoft Entra ID / Azure AD)
+
+- Configured Windows 11 as a **cloud-joined device**
+- Managed users, roles, and access policies
+- Practiced:
+  - MFA troubleshooting
+  - Account recovery workflows
+  - Conditional access concepts
+  - Endpoint compliance basics
 
 ---
 
 ### 🎫 Ticketing System Practice (osTicket)
-- Deployed **osTicket on Ubuntu (UTM)** to simulate a real help desk environment
-- Logged, triaged, escalated, and resolved **30+ realistic support tickets**
-- Practiced **technical documentation, escalation notes, and end-user communication**
-- Linked tickets to **Windows 11 endpoint issues, identity access problems, and security events**
 
-**Example issues handled**
-- Login failures, password resets, and account recovery
-- MFA and access issues (cloud identity scenarios)
-- Network connectivity and DNS troubleshooting
-- Slow system performance and application errors
-- Security-related alerts and investigations
+- Deployed **osTicket on Ubuntu (UTM)**
+- Logged, triaged, escalated, and resolved **30+ realistic support tickets**
+- Practiced:
+  - SLA awareness
+  - Escalation documentation
+  - End-user communication
+- Linked tickets to:
+  - Active Directory user management
+  - Cloud identity issues
+  - DNS and network troubleshooting
+  - Security alerts and investigations
+
+**Example Issues Resolved**
+- Login failures and account unlocks
+- MFA and identity access problems
+- Group membership permission errors
+- DNS resolution failures
+- Slow system performance
+- Endpoint security alerts
 
 ---
 
 ## 🧰 Technical Skills
 
-- **Operating Systems:** Windows 11, Ubuntu Linux, basic macOS support  
-- **Virtualization & Labs:** UTM (Apple Silicon), cloud-based lab environments  
-- **Identity & Access Management:** Microsoft Entra ID (Azure AD)  
-- **Endpoint Management:** Cloud-joined devices, security and compliance concepts  
-- **IT Support:** Ticket triage, troubleshooting, documentation, escalation  
-- **Networking Fundamentals:** IP addressing, DNS, Wi-Fi troubleshooting  
-- **Security Fundamentals:** Authentication, least privilege, endpoint security, log analysis  
-- **Tools:** osTicket, Linux CLI, Azure Portal, Microsoft 365 Admin Center  
+### Systems & Infrastructure
+- Windows Server (Active Directory Domain Services)
+- Windows 11
+- Ubuntu Linux
+- macOS (basic support)
+
+### Identity & Access Management
+- Active Directory (Users, Groups, OUs, GPOs)
+- Microsoft Entra ID (Azure AD)
+- RBAC & least privilege
+- Account lifecycle management
+
+### Virtualization
+- UTM (Apple Silicon)
+- Hybrid lab environments
+
+### IT Support & Operations
+- Ticket triage & escalation
+- Authentication troubleshooting
+- Endpoint issue resolution
+- Technical documentation
+
+### Networking Fundamentals
+- IP addressing
+- DNS troubleshooting
+- Wi-Fi & LAN connectivity
+- Port & service awareness
+
+### Security Fundamentals
+- Authentication & authorization
+- Log analysis
+- Vulnerability scanning basics
+- Incident triage
+- MITRE ATT&CK fundamentals
+
+### Tools
+- Active Directory Users & Computers
+- Group Policy Management Console
+- osTicket
+- Azure Portal
+- Microsoft 365 Admin Center
+- Linux CLI
 
 ---
 
 ## 🎓 Education
 
 **Kean University**  
-**B.S. in Computer Science (Cybersecurity Option)**  
+B.S. in Computer Science (Cybersecurity Option)  
 Minor in Mathematical Sciences  
 
 ---
 
-## 🛡️ Cybersecurity Coursework (Hands-On)
+## 🛡 Cybersecurity Coursework (Hands-On)
 
-### CodePath CYB101 – Introduction to Cybersecurity *(Completed)*
-**Focus:** Security fundamentals, Linux, networking, malware, and social engineering
+### CodePath CYB101 – Introduction to Cybersecurity (Completed)
 
-- Linux command-line fundamentals (bash)
-- Secure remote access (SSH, RDP)
-- Public Key Infrastructure (PKI) basics
-- Password security and hashing
-- IP and DNS fundamentals
-- Introductory penetration testing (controlled labs)
-- Malware classification and detection
-- Metadata analysis and steganography
-- Social engineering (phishing, spoofing)
-- Privacy, security, and anonymity concepts
+- Linux CLI fundamentals
+- SSH and RDP secure remote access
+- PKI basics
+- Password hashing & security
+- Introductory penetration testing labs
+- Malware classification & detection
+- Social engineering awareness
 
-**Hands-On Experience**
-- Navigated Linux systems via terminal
-- Executed controlled exploitation labs
-- Analyzed malware behavior
-- Identified and mitigated phishing attempts
+### CodePath CYB102 – Intermediate Cybersecurity (In Progress)
 
----
-
-### CodePath CYB102 – Intermediate Cybersecurity *(In Progress)*
-**Focus:** Blue Team operations, monitoring, detection, and incident response
-
-- SOC workflows and Blue Team defense concepts
-- Endpoint monitoring and log analysis
-- SIEM and host-based intrusion detection (HIDS)
-- Vulnerability scanning and assessment
-- Network monitoring and packet analysis
-- IDS/IPS concepts
+- SOC workflows & Blue Team concepts
+- Log analysis & endpoint monitoring
+- SIEM & HIDS concepts
+- Vulnerability scanning
+- Network packet analysis
 - Incident response lifecycle
-- Threat intelligence and MITRE ATT&CK framework
-
-**Hands-On Experience**
-- Analyzed security logs and alerts
-- Monitored endpoints for suspicious activity
-- Performed incident triage and escalation
-- Conducted vulnerability scans and risk assessments
-- Mapped adversary behavior using MITRE ATT&CK
+- MITRE ATT&CK mapping
 
 ---
 
-## 📜 Certifications & Training
+## 📜 Certifications (In Progress)
 
-- CompTIA Security+ *(In Progress)*  
-- CompTIA Network+ *(In Progress)*  
-- AWS Certified Cloud Practitioner *(In Progress)*  
-
-> Advanced cloud, security, and AI-focused certifications planned after foundational completion.
-
----
-
-## ☁️ Cloud Platforms (Learning Path)
-
-### Microsoft Azure
-- AZ-900: Azure Fundamentals *(Planned)*
-- AZ-500: Azure Security Engineer *(Planned)*
-
-### AWS
-- AWS Solutions Architect – Associate *(Planned)*
-- AWS Security – Specialty *(Planned)*
+- CompTIA Security+
+- CompTIA Network+
 
 ---
 
 ## 🎯 Career Interests
 
+**Immediate Focus**
 - IT Support / Service Desk Analyst
 - IT Support Engineer
-- SOC Analyst (Blue Team)  
-- Information Security Analyst  
-- Cloud Security Engineer  
-- Security Engineer (IAM / Detection / Cloud)  
-- AI Security Engineer *(long-term)*  
+- SOC Analyst (Blue Team)
+
+**Long-Term**
+- Cloud Security Engineer
+- Security Engineer (IAM / Detection / Cloud)
+- AI Security Engineer
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/leoneltorresgarcia/  
-- 📧 Email: ltorresgarcia2000@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/leoneltorresgarcia/  
+📧 Email: ltorresgarcia2000@gmail.com  
