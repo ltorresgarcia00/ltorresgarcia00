@@ -92,44 +92,6 @@ Implemented a fully functional Pong game showcasing:
 
 ---
 
-# 🧪 IT Support & Security Home Lab (Detailed Breakdown)
-
-## 🖥 On-Prem Active Directory (Windows Server)
-
-- Installed and configured AD DS
-- Created users, security groups, and OUs
-- Applied Group Policy Objects (GPOs)
-- Practiced:
-  - Password resets
-  - Account lockouts
-  - Domain join troubleshooting
-  - RDP configuration
-- Implemented role-based access control
-
----
-
-## ☁️ Cloud Identity (Microsoft Entra ID)
-
-- Configured cloud-joined Windows device
-- Managed identity roles and policies
-- Practiced MFA troubleshooting
-- Explored conditional access and endpoint compliance concepts
-
----
-
-## 🎫 Ticketing System (osTicket)
-
-- Deployed on Ubuntu VM
-- Logged, triaged, escalated, and resolved 30+ tickets
-- Practiced documentation and SLA awareness
-- Linked tickets to:
-  - AD user management
-  - Cloud identity issues
-  - DNS troubleshooting
-  - Security-related alerts
-
----
-
 # 🧰 Technical Skills
 
 ### Systems & Infrastructure
