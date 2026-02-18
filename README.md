@@ -1,7 +1,6 @@
 # Hi, I’m Leonel Torres Garcia 👋
 
 🎓 **Computer Science (Cybersecurity) Student @ Kean University**  
-🔐 Aspiring Cloud & AI Security Engineer | Blue Team Focus  
 
 I’m building hands-on experience in IT infrastructure, identity management, cloud security, and AI-driven systems through structured labs and real-world style projects.
 
