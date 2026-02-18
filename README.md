@@ -149,6 +149,8 @@ Minor in Mathematical Sciences
 
 - CompTIA Security+
 - CompTIA Network+
+- CompTIA SecAI+
+- Cloud Certifications in AWS, Azure, Google Cloud
 
 ---
 
