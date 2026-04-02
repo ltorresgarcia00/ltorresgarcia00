@@ -135,14 +135,6 @@ Minor in Mathematical Sciences
 - Introductory penetration testing
 - Malware analysis basics
 
-### CodePath CYB102 – In Progress
-- SOC workflows
-- Log analysis & endpoint monitoring
-- SIEM concepts
-- Vulnerability scanning
-- Incident response lifecycle
-- MITRE ATT&CK mapping
-
 ---
 
 # 📜 Certifications (In Progress)
